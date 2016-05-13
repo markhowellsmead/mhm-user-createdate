@@ -4,7 +4,8 @@
 Adds a new column to the WordPress admin user list view, showing the date on which the user was created. The list can be sorted by this column.
 
 ##Usage
-Install and activate the plugin as usual.
+Install and activate the plugin as usual. This plugin is available from the WordPress.org Plugin Repository at
+https://wordpress.org/plugins/mhm-user-createdate/.
 
 ##Author
 Mark Howells-Mead | www.permanenttourist.ch | Since 25.3.2016
